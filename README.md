@@ -18,7 +18,7 @@
 
 - **Languages:** C, Python, JavaScript  
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, MongoDB  
+- **Backend:** Node.js  
 - **Tools:** Git & GitHub, VS Code  
 
 ---
