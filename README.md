@@ -36,17 +36,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=nsaichandana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=nsaichandana&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=nsaichandana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="170px" src="https://streak-stats.demolab.com?user=nsaichandana&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsaichandana&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsaichandana&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
----
-
-## 📈 Contribution Graph  
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsaichandana&theme=react-dark&hide_border=true&area=true" />
 </p>
