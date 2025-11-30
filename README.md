@@ -1,63 +1,87 @@
-<h1 align="center">Hi there 👋, I'm Saichandana</h1>
+<h1 align="center">Hi there, I'm Saichandana 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Software Development Engineer (SDE) | 🎓 CSE @ Sathyabama University  
+  🌟 Aspiring Software Development Engineer (SDE) <br/>
+  🎓 CSE @ Sathyabama University | 💻 Java & DSA Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://github.com/nsaichandana">
+    <img src="https://komarev.com/ghpvc/?username=nsaichandana&label=Profile Views&color=ff69b4&style=flat" />
+  </a>
 </p>
 
 ---
 
-### 💡 About Me
-- 🧠 Currently learning **Java + DSA** to build a strong foundation for product-based companies  
-- 💻 Exploring **Backend Development** (Java, Spring Boot soon)  
-- 🔍 Interested in solving real-world problems through coding & logical thinking  
-- 🎨 I love creating things using both my mind and hands—coding, designing, and problem-solving  
+## 🚀 About Me  
+- 💡 Passionate about **Java, DSA, Backend Development & Problem Solving**  
+- 📚 Building strong fundamentals for **Product-Based Companies (Amazon, Atlassian, Walmart, Zoho)**  
+- 🔭 Currently working on:  
+  - Java + DSA learning roadmap  
+  - Topic-wise LeetCode/GFG practice  
+  - Clean & structured GitHub repositories  
+- 🎯 Goals (2025):  
+  - Solve **300+ DSA problems**  
+  - Build **3–4 Java/Spring Boot projects**  
+  - Crack top company internships  
 
 ---
 
-### 🚀 Tech Stack
-#### **Core Skills (Current Focus)**
-- **Java (Primary)** — Basics, OOP, Arrays, Strings, DSA  
-- **DSA** — Arrays, Strings, Hashing, Two Pointers (learning in the right topic order)  
-
-#### **Web Development**
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend (Learning Path):** Java → JDBC → SQL → Hibernate → Spring Boot  
-- **Tools:** Git, GitHub, VS Code  
-
----
-
-### 📌 Current Goals
-- 🔁 Solve **300+ DSA problems** (LeetCode + GFG)  
-- 💻 Build **3–4 Java-based projects**, including Spring Boot projects  
-- 📝 Strengthen GitHub with clean structure, commits & documentation  
-- 🎯 Prepare for internships at **Amazon, Walmart, Zoho, Atlassian**, and other product-based companies  
-
----
-
-### 📚 What I'm Working On Right Now
-- ✔ Building strong **Java fundamentals**  
-- ✔ Practicing topic-wise **DSA** daily  
-- ✔ Organizing code in a dedicated repo: *java-prep*  
-- ✔ Learning problem-solving patterns  
-- ⏳ Preparing to enter **A-Batch** placement training  
-
----
-
-### 📫 Connect with Me
-- 🌐 **LinkedIn:** https://www.linkedin.com/in/nunna-saichandana-8ab188326/  
-- 📧 **Email:** nsaichandana2006@gmail.com
-
----
-
-### 📈 GitHub Stats
+## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsaichandana&show_icons=true&theme=radical" alt="Saichandana's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsaichandana&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,html,css,js,bootstrap,mysql,postgres,vscode" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> I love building things—whether it's logic, art, or ideas—and seeing them come alive.
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=nsaichandana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=nsaichandana&theme=radical" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsaichandana&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsaichandana&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nsaichandana&theme=radical&margin-w=15" />
+</p>
+
+---
+
+## 💼 Featured Goals  
+✔ Strengthen Java, OOP, DSA  
+✔ Build backend projects using Java + SQL  
+✔ Improve GitHub structure & contribution streak  
+✔ Participate in hackathons, open-source  
+
+---
+
+## 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nunna-saichandana-8ab188326/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nsaichandana2006@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+> I love building things — whether it’s logic, art, or ideas — and watching them come alive!
+
+---
