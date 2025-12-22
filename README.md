@@ -6,12 +6,6 @@
   Java • Data Structures & Algorithms • Backend Development
 </p>
 
-<p align="center">
-  <a href="https://github.com/nsaichandana">
-    <img src="https://komarev.com/ghpvc/?username=nsaichandana&label=Profile%20Views&color=ff69b4&style=flat" />
-  </a>
-</p>
-
 <hr/>
 
 <h2>🚀 About Me</h2>
