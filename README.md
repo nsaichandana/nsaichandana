@@ -3,7 +3,7 @@
 <p align="center">
   🌱 Aspiring <b>Software Development Engineer (SDE)</b> <br/>
   🎓 Computer Science Engineering @ Sathyabama University <br/>
-  💻 Java • DSA • Backend Development
+  💻 Java • Data Structures & Algorithms • Backend Development
 </p>
 
 <p align="center">
@@ -16,25 +16,25 @@
 
 <h2>🚀 About Me</h2>
 <p>
-I’m a Computer Science student who enjoys turning ideas and logic into working software.
-I focus on strong fundamentals, clean code, and consistent improvement.
+I am a Computer Science Engineering student who enjoys building logic-driven solutions
+and understanding how systems work internally. I focus on strong fundamentals,
+clean code, and consistent improvement rather than shortcuts.
 </p>
 
 <ul>
-  <li>💡 Interested in <b>Java, DSA, OOP & Backend Development</b></li>
-  <li>🧠 Preparing for <b>Product-Based Company SDE roles</b></li>
-  <li>📚 Learning deeply — understanding concepts, not just memorizing</li>
-  <li>🌱 Improving daily through practice and projects</li>
+  <li>💡 Interested in <b>Java, OOP, DSA & Backend Development</b></li>
+  <li>🧠 Preparing for <b>SDE roles at product-based companies</b></li>
+  <li>📚 Focused on deep understanding, not rote learning</li>
 </ul>
 
 <hr/>
 
 <h2>🎯 Current Focus</h2>
 <ul>
-  <li>✔ Master Java fundamentals & OOP concepts</li>
-  <li>✔ Solve <b>300+ DSA problems</b> (LeetCode / GFG)</li>
-  <li>✔ Build <b>3–4 backend projects</b> using Java & SQL</li>
-  <li>✔ Maintain clean, well-documented GitHub repositories</li>
+  <li>✔ Strengthening Java fundamentals and OOP concepts</li>
+  <li>✔ Practicing DSA topic-wise (Arrays → Recursion → Trees → Graphs)</li>
+  <li>✔ Building backend-oriented Java projects using SQL</li>
+  <li>✔ Improving code quality, structure, and documentation</li>
 </ul>
 
 <hr/>
@@ -46,12 +46,27 @@ I focus on strong fundamentals, clean code, and consistent improvement.
 
 <hr/>
 
-<h2>📌 What I’m Working On</h2>
+<h2>📌 Featured Work</h2>
+<p>
+These repositories represent my primary learning and practice areas.
+(More projects will be added as I progress.)
+</p>
+
 <ul>
-  <li>📂 Java + DSA structured learning roadmap</li>
-  <li>🧩 Topic-wise problem solving (Arrays → Recursion → Trees → Graphs)</li>
-  <li>🛠 Backend mini-projects (CRUD, REST APIs, DB integration)</li>
-  <li>📖 Writing clean README files & meaningful code comments</li>
+  <li><b>Java & DSA Practice</b> – Topic-wise DSA problems with explanations</li>
+  <li><b>Java Fundamentals</b> – Core Java syntax and OOP concepts</li>
+  <li><b>Backend Mini Projects</b> – CRUD applications with database integration</li>
+</ul>
+
+<hr/>
+
+<h2>🧠 Learning Roadmap</h2>
+<ul>
+  <li>Java Fundamentals & Object-Oriented Programming</li>
+  <li>Data Structures & Algorithms</li>
+  <li>Problem-Solving Patterns</li>
+  <li>Backend Development with Java & SQL</li>
+  <li>Basic System Design (future)</li>
 </ul>
 
 <hr/>
@@ -68,20 +83,6 @@ I focus on strong fundamentals, clean code, and consistent improvement.
 
 <hr/>
 
-<h2>📈 Contribution Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsaichandana&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<hr/>
-
-<h2>🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nsaichandana&theme=radical&margin-w=15" />
-</p>
-
-<hr/>
-
 <h2>🤝 Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/nunna-saichandana-8ab188326/">
@@ -91,11 +92,4 @@ I focus on strong fundamentals, clean code, and consistent improvement.
   <a href="mailto:nsaichandana2006@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
-
-<hr/>
-
-<h3>⚡ Fun Fact</h3>
-<p>
-I love building things step by step — from ideas, to logic, to real working code.
 </p>
