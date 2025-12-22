@@ -47,10 +47,6 @@ structured code rather than memorizing solutions.
 <hr/>
 
 <h2>📌 Featured Work</h2>
-<p>
-These repositories represent my primary learning and practice areas.
-</p>
-
 <ul>
   <li><b>Java & DSA Practice</b> – Topic-wise DSA problems with explanations</li>
   <li><b>Java Fundamentals</b> – Core Java syntax and OOP concepts</li>
@@ -89,4 +85,6 @@ These repositories represent my primary learning and practice areas.
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nsaichandana2006@gmail.com">
-    <img src="https://skillicons.dev/icon
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
