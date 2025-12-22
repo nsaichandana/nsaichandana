@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I’m Saichandana 👋</h1>
 
 <p align="center">
-  🌱 Aspiring <b>Software Development Engineer (SDE)</b> <br/>
-  🎓 Computer Science Engineering @ Sathyabama University <br/>
-  💻 Java • Data Structures & Algorithms • Backend Development
+  Aspiring <b>Software Development Engineer (SDE)</b> <br/>
+  Computer Science Engineering @ Sathyabama University <br/>
+  Java • Data Structures & Algorithms • Backend Development
 </p>
 
 <p align="center">
@@ -16,25 +16,25 @@
 
 <h2>🚀 About Me</h2>
 <p>
-I am a Computer Science Engineering student who enjoys building logic-driven solutions
-and understanding how systems work internally. I focus on strong fundamentals,
-clean code, and consistent improvement rather than shortcuts.
+I am a Computer Science Engineering student focused on building strong programming fundamentals
+and problem-solving skills. I enjoy understanding how systems work internally and writing clean,
+structured code rather than memorizing solutions.
 </p>
 
 <ul>
-  <li>💡 Interested in <b>Java, OOP, DSA & Backend Development</b></li>
-  <li>🧠 Preparing for <b>SDE roles at product-based companies</b></li>
-  <li>📚 Focused on deep understanding, not rote learning</li>
+  <li>Strong interest in <b>Java, OOP, and Data Structures</b></li>
+  <li>Preparing for <b>SDE roles at product-based companies</b></li>
+  <li>Believer in consistency and deep learning</li>
 </ul>
 
 <hr/>
 
 <h2>🎯 Current Focus</h2>
 <ul>
-  <li>✔ Strengthening Java fundamentals and OOP concepts</li>
-  <li>✔ Practicing DSA topic-wise (Arrays → Recursion → Trees → Graphs)</li>
-  <li>✔ Building backend-oriented Java projects using SQL</li>
-  <li>✔ Improving code quality, structure, and documentation</li>
+  <li>Strengthening Java fundamentals and OOP concepts</li>
+  <li>Practicing DSA topic-wise (Arrays → Recursion → Trees → Graphs)</li>
+  <li>Building backend-oriented Java projects using SQL</li>
+  <li>Improving code quality and documentation</li>
 </ul>
 
 <hr/>
@@ -49,7 +49,6 @@ clean code, and consistent improvement rather than shortcuts.
 <h2>📌 Featured Work</h2>
 <p>
 These repositories represent my primary learning and practice areas.
-(More projects will be added as I progress.)
 </p>
 
 <ul>
@@ -62,7 +61,7 @@ These repositories represent my primary learning and practice areas.
 
 <h2>🧠 Learning Roadmap</h2>
 <ul>
-  <li>Java Fundamentals & Object-Oriented Programming</li>
+  <li>Java Fundamentals & OOP</li>
   <li>Data Structures & Algorithms</li>
   <li>Problem-Solving Patterns</li>
   <li>Backend Development with Java & SQL</li>
@@ -77,19 +76,17 @@ These repositories represent my primary learning and practice areas.
   <img height="170px" src="https://streak-stats.demolab.com?user=nsaichandana&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsaichandana&layout=compact&theme=radical" />
-</p>
-
 <hr/>
 
 <h2>🤝 Connect With Me</h2>
 <p align="center">
+  <a href="https://github.com/nsaichandana">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nunna-saichandana-8ab188326/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nsaichandana2006@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+    <img src="https://skillicons.dev/icon
