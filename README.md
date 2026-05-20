@@ -1,84 +1,50 @@
-<h1 align="center">Hi, I’m Saichandana 👋</h1>
-
+<h1 align="center">Saichandana N.</h1>
 <p align="center">
-  Aspiring <b>Software Development Engineer (SDE)</b> <br/>
-  Computer Science Engineering @ Sathyabama University <br/>
-  Java • Data Structures & Algorithms • Backend Development
+  Computer Science Engineering · Sathyabama University<br/>
+  <a href="mailto:nsaichandana2006@gmail.com">nsaichandana2006@gmail.com</a> · 
+  <a href="https://www.linkedin.com/in/nunna-saichandana-8ab188326/">LinkedIn</a> · 
+  <a href="https://github.com/nsaichandana">GitHub</a>
 </p>
 
-<hr/>
+---
 
-<h2>🚀 About Me</h2>
-<p>
-I am a Computer Science Engineering student focused on building strong programming fundamentals
-and problem-solving skills. I enjoy understanding how systems work internally and writing clean,
-structured code rather than memorizing solutions.
-</p>
+I'm a CS student with real-world internship experience across 3D frontend development and cybersecurity. Currently building depth in Java, DSA, and backend systems — with the goal of joining a product-based company as an SDE.
 
-<ul>
-  <li>Strong interest in <b>Java, OOP, and Data Structures</b></li>
-  <li>Preparing for <b>SDE roles at product-based companies</b></li>
-  <li>Believer in consistency and deep learning</li>
-</ul>
+I care more about understanding how things work than having a long list of technologies. I build things, break them, and figure out why.
 
-<hr/>
+---
 
-<h2>🎯 Current Focus</h2>
-<ul>
-  <li>Strengthening Java fundamentals and OOP concepts</li>
-  <li>Practicing DSA topic-wise (Arrays → Recursion → Trees → Graphs)</li>
-  <li>Building backend-oriented Java projects using SQL</li>
-  <li>Improving code quality and documentation</li>
-</ul>
+## Experience
 
-<hr/>
+**3D Frontend Intern — [APIXEY PVT LTD]**  
+Designed and built a 3D-based frontend interface for a real-world client. Translated product requirements into interactive visual experiences.  
+`3D/WebGL` `Frontend` · [https://www.brainvoiceai.com/]
 
-<h2>🛠️ Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,html,css,js,bootstrap,mysql,postgres,vscode" />
-</p>
+**Cybersecurity Intern — [CISCO]**  
+Exposure to security concepts, threat identification, and foundational security practices in a professional environment.  
+`Cybersecurity` `Industry Exposure`
 
-<hr/>
+**Core Contributor — College Club Website**  
+One of the main contributors to building and maintaining the official website for my college club. Involved in development, content structuring, and updates.  
+`Web Dev` `Team Project` · [https://github.com/NavaneethJ03/CodeHubWebsite_dev]
 
-<h2>📌 Featured Work</h2>
-<ul>
-  <li><b>Java & DSA Practice</b> – Topic-wise DSA problems with explanations</li>
-  <li><b>Java Fundamentals</b> – Core Java syntax and OOP concepts</li>
-  <li><b>Backend Mini Projects</b> – CRUD applications with database integration</li>
-</ul>
+---
 
-<hr/>
+## Currently Working On
 
-<h2>🧠 Learning Roadmap</h2>
-<ul>
-  <li>Java Fundamentals & OOP</li>
-  <li>Data Structures & Algorithms</li>
-  <li>Problem-Solving Patterns</li>
-  <li>Backend Development with Java & SQL</li>
-  <li>Basic System Design (future)</li>
-</ul>
+- DSA topic-wise on LeetCode (Arrays → Linked Lists → Trees)
+- Java OOP fundamentals and backend mini projects with SQL
+- Strengthening problem-solving consistency — daily practice
 
-<hr/>
+---
 
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=nsaichandana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://streak-stats.demolab.com?user=nsaichandana&theme=radical" />
-</p>
+## Tech
 
-<hr/>
+`Java` `MySQL` `PostgreSQL` `HTML/CSS/JS` `Bootstrap` `Git`
 
-<h2>🤝 Connect With Me</h2>
-<p align="center">
-  <a href="https://github.com/nsaichandana">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nunna-saichandana-8ab188326/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:nsaichandana2006@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+---
+
+## Connect
+
+- LinkedIn: [nunna-saichandana](https://www.linkedin.com/in/nunna-saichandana-8ab188326/)
+- Email: nsaichandana2006@gmail.com
