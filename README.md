@@ -47,4 +47,4 @@ One of the main contributors to building and maintaining the official website fo
 ## Connect
 
 - LinkedIn: [nunna-saichandana](https://www.linkedin.com/in/nunna-saichandana-8ab188326/)
-- Email: nsaichandana2006@gmail.com
+- Email: saichandununna@gmail.com
